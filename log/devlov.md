@@ -8,4 +8,5 @@
 | 20211212            | configure `mecab` on ubuntu server | reference on `nilumbra` ...cheng/installing_mecab.sh| :heavy_check_mark: |
 | 20211213            | preprocessing:extract word frequency from `questions` table  | mainly cleaned up scratch-paper code and did some scripting. takes about 5 hours in total| :heavy_check_mark: |
 | 20211213            | write some ipynb for my team| quick intro: how to view data in pandas. `groupby()` and aggregation|  |
+| 20211224            | aggregate on users actions| num of questions, answers, search by user per day| :heavy_check_mark:|
 
